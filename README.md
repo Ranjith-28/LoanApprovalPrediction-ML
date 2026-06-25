@@ -28,7 +28,7 @@ The dataset contains applicant information such as:
 
 ##  How to Run
 
-1. Clone this repository 
+1. Clone this repository git clone https://github.com/Ranjith-28/LoanApprovalPrediction-ML.git
 2. Install the required libraries.
 3. Open the notebook in Jupyter Notebook.
 4. Run all cells.
